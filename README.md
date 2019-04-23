@@ -1,6 +1,5 @@
 # Jogo-Mr-Slime-Unity
 
-```
 ```sh
 Projeto Final - Disciplina: Desenvolvimento de Projeto de Software - Unipê 2019.1
 ```
