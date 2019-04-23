@@ -1,4 +1,4 @@
-# Jogo-Mr-Slime-Unity
+# Jogo-Mr-Slime
 
 ```sh
 Projeto Final - Disciplina: Desenvolvimento de Projeto de Software - Unipê 2019.1
@@ -12,8 +12,6 @@ Plataforma de Desenvolvimento:
 * PHP 7 
 * MYSQL 8 
 * Unity 2018.3.3 (C#)
-
-http://mr-slime.herokuapp.com/
 
 ### Grupo:
 * Alvaro Santos
