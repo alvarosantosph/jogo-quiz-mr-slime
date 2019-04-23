@@ -7,6 +7,10 @@ Tipo de Jogo:
 
 * QUIZ
 
+História:
+
+* Mr Slime é uma bolha com sede de conhecimento e com um grande objetivo em aprender novos conceitos da tecnologia da informação. Ajude o Mr Slime a aprender sem que ele exploda.
+
 Plataforma de Desenvolvimento: 
 
 * PHP 7 
