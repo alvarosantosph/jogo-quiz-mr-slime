@@ -1,4 +1,4 @@
-# Jogo-Mr-Slime
+# Jogo-Mr-Slime Construct2
 
 ```sh
 Projeto Final - Disciplina: Desenvolvimento de Projeto de Software - Unipê 2019.1
