@@ -15,7 +15,7 @@ Plataforma de Desenvolvimento:
 
 * PHP 7 
 * MYSQL 8 
-* Unity 2018.3.3 (C#)
+* Construct2
 
 ### Grupo:
 * Alvaro Santos
