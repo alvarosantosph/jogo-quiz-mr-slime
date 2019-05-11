@@ -18,12 +18,12 @@ Plataforma de Desenvolvimento:
 * Construct2
 
 ### Grupo:
-* Alvaro Santos
+* Alvaro Santos:
 https://github.com/alvarosantosph
 
-* Isis Angelis
+* Isis Angelis:
 https://github.com/IsisAngelis
 
-* Rafael Matheus
+* Rafael Matheus:
 https://github.com/RafaelMatheus
 
