@@ -19,6 +19,11 @@ Plataforma de Desenvolvimento:
 
 ### Grupo:
 * Alvaro Santos
+https://github.com/alvarosantosph
+
 * Isis Angelis
+https://github.com/IsisAngelis
+
 * Rafael Matheus
+https://github.com/RafaelMatheus
 
