@@ -17,6 +17,8 @@ Plataforma de Desenvolvimento:
 * MYSQL 8 
 * Construct2
 
+Obs: Funciona melhor no Navegador Firefox
+
 ### Grupo:
 * Alvaro Santos:
 https://github.com/alvarosantosph
