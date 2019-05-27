@@ -19,8 +19,6 @@ Plataforma de Desenvolvimento:
 
 Jogo em Produção: http://mr-slime.herokuapp.com/game/
 
-Obs: Funciona melhor no Navegador Firefox
-
 ### Grupo:
 * Alvaro Santos:
 https://github.com/alvarosantosph
