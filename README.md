@@ -17,7 +17,7 @@ Plataforma de Desenvolvimento:
 * MYSQL 8 
 * Construct2
 
-Jogo em Produção: http://mr-slime.herokuapp.com/game/
+Build em Produção: http://mr-slime.herokuapp.com/game/
 
 ### Grupo:
 * Alvaro Santos:
