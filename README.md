@@ -1,4 +1,4 @@
-# Jogo - Quiz - Mr-Slime V1.0 Construct2
+# Quiz-Mr-Slime V1.0 Construct2
 
 ```sh
 Projeto Final - Disciplina: Desenvolvimento de Projeto de Software - Unipê 2019.1
