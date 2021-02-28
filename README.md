@@ -11,6 +11,8 @@ Projeto Final - Disciplina: Desenvolvimento de Projeto de Software - Unipê 2019
   <img src="https://img.shields.io/badge/-MYSQL-lightsteelblue?style=for-the-badge" alt="MYSQL">
 </div>
 
+<br />
+
 Tipo de Jogo: 
 
 * QUIZ
