@@ -21,8 +21,6 @@ História:
 
 * Mr Slime é uma bolha com sede de conhecimento e com um grande objetivo em aprender novos conceitos da tecnologia da informação. Ajude o Mr Slime a aprender sem que ele exploda.
 
-Build em Produção: http://mr-slime.herokuapp.com/game/
-
 ### Grupo:
 * Alvaro Santos:
 https://github.com/alvarosantosph
